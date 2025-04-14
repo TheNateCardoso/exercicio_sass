@@ -1,0 +1,23 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNateCardoso/portfolio_site_gameshop.git"
+  },
+  "author": "Nate <ncgaaran@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheNateCardoso/portfolio_site_gameshop/issues"
+  },
+  "homepage": "https://github.com/TheNateCardoso/portfolio_site_gameshop#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
+}
